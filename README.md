@@ -3,4 +3,7 @@ This is a university project where we implemented a client-server group chat.
 
 # Demonstration
   - UDP
- ![](UDP_Demonstration.gif)
+ ![](udp_Demonstration.gif)
+  
+  - TCP
+ ![](TCP_Demonstration.gif)
