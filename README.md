@@ -1,5 +1,5 @@
 # TCP-and-UDP-Group-Chat
-This is a university project where we implemented a client-server group chat.
+This is a group university project where we implemented a client-server group chat.
 
 # Demonstration
   - UDP
